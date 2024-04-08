@@ -12,8 +12,8 @@ body {
 
 
 .box1 {
-    width: 105%;
-    height: 105%;
+    width: 100%;
+    height: 100%;
     background-image: url(https://imgs.search.brave.com/Zqg0FqEzZTB3mHes0fnCKpwjmiTgdw_1yKA_SVOueio/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9wcm9mZXNzaW9u/YWwtc3R1ZGlvLW1v/bml0b3JzLXdpdGgt/aGlnaC1zb3VuZC1x/dWFsaXR5LXNwZWFr/ZXItc3lzdGVtLW11/c2ljLWxvdmVycy1i/bGFja184ODEzNS0z/MzY5My5qcGc_c2l6/ZT02MjYmZXh0PWpw/Zw);
     background-repeat: no-repeat;
     background-size: cover;
